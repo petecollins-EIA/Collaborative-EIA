@@ -1,4 +1,4 @@
-##This shows you how to create different header types, quotes, bulleted lists etc
+#####This shows you how to create different header types, quotes, bulleted lists etc
 
 # Header 1 `# Header 1`
 ## Header 2 `## Header 2` 

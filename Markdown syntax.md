@@ -1,11 +1,13 @@
+##This shows you how to create different header types, quotes, bulleted lists etc
+
 # Header 1 `# Header 1`
 ## Header 2 `## Header 2` 
 ### Header 3 `### Header 3`
 #### Header 4 `#### Header 4`
 ##### Header 5 `##### Header 5`
 
-> Blockquotes are like quoted text in email replies
->> And, they can be nested
+> Blockquotes `> Blockquotes`
+>> Nested blockquote `>Nested blockquote`
 
 * Bullet lists are easy too `* Bullet lists are easy too`
 - Another one `- Another one`
@@ -15,6 +17,7 @@
 2. Which is numbered
 3. With periods and a space
 
+##We probably won't need much below here, just concentrate on the stuff above!
 
 ## Markdown plus h2 with a custom ID ##         {#id-goes-here}
 [Link back to H2](#id-goes-here)

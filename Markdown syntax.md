@@ -4,6 +4,18 @@
 #### Header 4 `#### Header 4`
 ##### Header 5 `##### Header 5`
 
+> Blockquotes are like quoted text in email replies
+>> And, they can be nested
+
+* Bullet lists are easy too `* Bullet lists are easy too`
+- Another one `- Another one`
++ Another one `+ Another one`
+
+1. A numbered list
+2. Which is numbered
+3. With periods and a space
+
+
 ## Markdown plus h2 with a custom ID ##         {#id-goes-here}
 [Link back to H2](#id-goes-here)
 
@@ -20,16 +32,6 @@ words are ignored in Markdown Extra.
 
 ![picture alt](/images/photo.jpeg "Title is optional")     
 
-> Blockquotes are like quoted text in email replies
->> And, they can be nested
-
-* Bullet lists are easy too
-- Another one
-+ Another one
-
-1. A numbered list
-2. Which is numbered
-3. With periods and a space
 
 And now some code:
 

@@ -5,3 +5,5 @@ This README file is for instructions, notes etc. Research and background materia
 The list above, currently comprising "Collaborative-EIA.md" and "README.md" (thats this file) are text files that can be edited. To edit one, click on the file name above; then click Edit. You can then start typing. Make a small edit or addition to this file to say hello.
 
 Pete says hi!
+
+Brigitte says hi back!
